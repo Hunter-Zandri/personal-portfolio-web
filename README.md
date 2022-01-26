@@ -11,7 +11,7 @@ This project is licensed under the terms of the [MIT](https://opensource.org/lic
 ## Questions
 My Github Profile: [hunter-zandri](https://github.com/hunter-zandri)
 
-Email me your questions at: [casenluck@gmail.com](mailto:zandrihunter@gmail.com)
+Email me your questions at: [zandrihunter@gmail.com](mailto:zandrihunter@gmail.com)
 
 ## Project
 
